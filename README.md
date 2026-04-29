@@ -2,7 +2,7 @@
 
 The Muse-Link is a prototype museum companion app developed for the **Practicum** course in the **M.A. in Quantitative Methods in the Social Sciences (QMSS)** program at **Columbia University**.
 
-The Muse-Link is an AI museum curator for iOS, iPadOS, and macOS. Tell it which museum you're visiting and what moves you, and it builds a focused three-stop narrative route shaped by your preferences and your past visits — not a list of recommendations, a story.
+It is an AI museum curator for iOS, iPadOS, and macOS. Tell it which museum you're visiting and what moves you, and it builds a focused three-stop narrative route shaped by your preferences and your past visits — not a list of recommendations, a story.
 
 The curator speaks in short Socratic prompts instead of long lectures, threads today's visit to your "Art Passport" of past museums and saved artworks, uses live web search to confirm current exhibitions and gallery closures, and watches for fatigue cues so it can route you to a bench when your feet hurt.
 
