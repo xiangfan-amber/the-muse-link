@@ -1,0 +1,65 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Xcode user data — never commit
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+*.xcscheme
+!default.xcscheme
+
+# Build products
+build/
+DerivedData/
+*.o
+*.lo
+*.la
+*.al
+.libs
+*.so
+*.so.[0-9]*
+*.a
+*.pyc
+*.swp
+
+# Xcode project provisional / generated
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.xcarchive
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
+.swiftpm/
+
+# CocoaPods (not used here, but ignore in case)
+Pods/
+*.xcworkspace/xcuserdata/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# IDE
+.idea/
+.vscode/
+
+# Local secrets — never check in
+*.pem
+*.p12
+*.mobileprovision
+.env
+.env.local
+secrets.json

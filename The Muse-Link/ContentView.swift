@@ -2,20 +2,14 @@
 //  ContentView.swift
 //  The Muse-Link
 //
-//  Created by 樊耳塞的Mac on 4/28/26.
+//  Thin wrapper around RootView so existing references still compile.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        RootView()
     }
 }
 
